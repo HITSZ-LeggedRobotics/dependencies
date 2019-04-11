@@ -26,7 +26,8 @@ Installation
 
 ### Dependencies
 
-- [OOQP]: Object-oriented software for quadratic programming,
+- [MA27](https://github.com/HITSZ-LeggedRobotics/ma27)
+- [OOQP](https://github.com/HITSZ-LeggedRobotics/OOQP): Object-oriented software for quadratic programming,
 - [Eigen]: Linear algebra library.
 
 ### Building
